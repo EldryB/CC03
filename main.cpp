@@ -4,6 +4,7 @@
 
 int main(int argc, char *argv[])
 {
+    //Cambios de eldry
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
